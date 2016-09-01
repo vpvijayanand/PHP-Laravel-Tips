@@ -2,7 +2,7 @@
 title: Configure Phpmyadmin with AWS RDS
 tip-number: 6
 tip-username: Vijayanand
-tip-username-profile: https://github.com/vijayanandp
+tip-username-profile: https://github.com/vpvijayanand
 tip-description: Configure Phpmyadmin with AWS RDS.
 
 ---
