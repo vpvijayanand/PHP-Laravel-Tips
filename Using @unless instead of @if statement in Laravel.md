@@ -2,7 +2,7 @@
 title: Using @unless instead of @if statement in Laravel
 tip-number: 1
 tip-username: Vijayanand
-tip-username-profile: https://github.com/vijayanandp
+tip-username-profile: https://github.com/
 tip-description: Using @unless instead of @if statement in Laravel.
 
 ---
