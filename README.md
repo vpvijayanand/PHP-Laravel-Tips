@@ -1,4 +1,4 @@
-# PHP-Tips
+# PHP-Laravel-Tips
 
 We came up with an idea to post tips to improve the PHP Community. The tips may be samll or big it must help the Community to easily get solution and make them work fast.
 
