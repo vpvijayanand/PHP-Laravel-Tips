@@ -6,14 +6,14 @@ Please feel free to send us a pull request with your PHP tip to be published her
 
 
 ##List of Tips
-- 09 - [How to move private repositories from Github to Bitbucket 5.1](https://github.com/vpvijayanand/PHP-Tips/blob/master/php-tips/How%20to%20move%20private%20repositories%20from%20Github%20to%20Bitbucket.md)
-- 08 - [Integration of payment gateway in Laravel 5.1](https://github.com/vpvijayanand/PHP-Tips/blob/master/php-tips/Integration%20of%20payment%20gateway%20in%20Laravel%205.1.md)
-- 07 - [How to “artificially” add values to Request array ](https://github.com/vpvijayanand/PHP-Tips/blob/master/php-tips/How%20to%20%E2%80%9Cartificially%E2%80%9D%20add%20values%20to%20Request%20array.md)
-- 06 - [Configure Phpmyadmin with AWS RDS](https://github.com/vpvijayanand/PHP-Tips/blob/master/php-tips/Configure%20Phpmyadmin%20with%20AWS%20RDS.md)
-- 05 - [Faster string replace for regular expression] (https://github.com/vpvijayanand/PHP-Tips/blob/master/php-tips/Faster%20string%20replace%20for%20regular%20expression.md)
-- 04 - [Laravel Send Mail Using Gmail] (https://github.com/vpvijayanand/PHP-Tips/blob/master/php-tips/Laravel%20Send%20Mail%20Using%20Gmail.md)
-- 03 - [Cache Database Queries] (https://github.com/vpvijayanand/PHP-Tips/blob/master/php-tips/Cache%20Database%20Queries.md)
-- 02 - [Carbon Constants](https://github.com/vpvijayanand/PHP-Tips/blob/master/php-tips/Carbon%20Constants.md)
+- 09 - [How to move private repositories from Github to Bitbucket 5.1](https://github.com/vpvijayanand/PHP-Tips/blob/master/How%20to%20move%20private%20repositories%20from%20Github%20to%20Bitbucket.md)
+- 08 - [Integration of payment gateway in Laravel 5.1](https://github.com/vpvijayanand/PHP-Tips/blob/master/Integration%20of%20payment%20gateway%20in%20Laravel%205.1.md)
+- 07 - [How to “artificially” add values to Request array ](https://github.com/vpvijayanand/PHP-Tips/blob/master/How%20to%20%E2%80%9Cartificially%E2%80%9D%20add%20values%20to%20Request%20array.md)
+- 06 - [Configure Phpmyadmin with AWS RDS](https://github.com/vpvijayanand/PHP-Tips/blob/master/Configure%20Phpmyadmin%20with%20AWS%20RDS.md)
+- 05 - [Faster string replace for regular expression] (https://github.com/vpvijayanand/PHP-Tips/blob/master/Faster%20string%20replace%20for%20regular%20expression.md)
+- 04 - [Laravel Send Mail Using Gmail] (https://github.com/vpvijayanand/PHP-Tips/blob/master/Laravel%20Send%20Mail%20Using%20Gmail.md)
+- 03 - [Cache Database Queries] (https://github.com/vpvijayanand/PHP-Tips/blob/master/Cache%20Database%20Queries.md)
+- 02 - [Carbon Constants](https://github.com/vpvijayanand/PHP-Tips/blob/master/Carbon%20Constants.md)
 - 01 - [Using @unless instead of @if statement in Laravel](https://github.com/vpvijayanand/PHP-Tips/blob/master/Using%20@unless%20instead%20of%20@if%20statement%20in%20Laravel.md)
 
 # License
