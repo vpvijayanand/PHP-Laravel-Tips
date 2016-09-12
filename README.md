@@ -6,6 +6,7 @@ Please feel free to send us a pull request with your PHP tip to be published her
 
 
 ##List of Tips
+- 11 - [Capture screenshot of website from URL](https://github.com/vpvijayanand/PHP-Laravel-Tips/blob/master/Capture%20screenshot%20of%20website%20from%20URL.md)
 - 10 - [Laravel - How to get table name from modal 5.1](https://github.com/vpvijayanand/PHP-Laravel-Tips/blob/master/Laravel%20-%20How%20to%20get%20table%20name%20from%20modal.md)
 - 09 - [How to move private repositories from Github to Bitbucket 5.1](https://github.com/vpvijayanand/PHP-Tips/blob/master/How%20to%20move%20private%20repositories%20from%20Github%20to%20Bitbucket.md)
 - 08 - [Integration of payment gateway in Laravel 5.1](https://github.com/vpvijayanand/PHP-Tips/blob/master/Integration%20of%20payment%20gateway%20in%20Laravel%205.1.md)
